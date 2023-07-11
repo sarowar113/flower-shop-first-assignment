@@ -72,9 +72,9 @@
 
 .photo-container {
     justify-content: center;
+
     display: flex;
     gap: 20px;
-    /* background-image: url("/images/pngwing\ 5.png"); */
 }
 
 .photo-pink {
@@ -132,99 +132,157 @@
     text-decoration: underline;
     padding-top: 20px;
 }
+
 /* deliver-container */
-.delivery-container{
+
+
+.delivery-container {
     display: flex;
     justify-content: center;
     margin-top: 150px;
     margin-bottom: 130px;
+    margin-left: auto;
+    margin-right: auto;
     gap: 280px;
+    background-color: rgba(39, 39, 39, 0.05);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 1450px;
+
+
 }
-.text2{
-    margin-top:5px ;
+
+.text2 {
+    margin-top: 5px;
     margin-left: -58px;
 }
-.sign-up{
+
+.sign-up {
     color: white;
     border-radius: 5px;
-    background: #E55473; 
+    background: #E55473;
     padding: 20px 43px;
     border: none;
     margin-left: 130px;
-    
-    
+
+
 }
-.color{
+
+.color {
     color: #E55473;
 }
-.fourth-container{
-    display: flex;
-    align-items: center;
-    margin-left: 500px;
+
+.fourth-container {
     margin-top: 200px;
-    gap: 50px;
+    background-color: rgba(229, 84, 115, 0.05);
 }
-.text3{
+
+.hot-deal-section {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    justify-items: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.text3 {
     margin-top: 10px;
     margin-bottom: 15px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
 }
-.contact{
+
+.contact {
     font-size: 40px;
 }
+
 /* instagram section */
-.contact1{
+.contact1 {
     font-size: 40px;
-    margin-left: 740px;
-    margin-top: 140px;
-    
+    text-align: center;
 
 }
-.text4{
+
+.text4 {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
-    margin-left:620px ;
+    text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
-   
-}
-.four-flower{
-    margin-left: 230px;
-    
 
-}   
-.text-img-container2{
-    margin-top: 20px;
-    gap: 10px;
-    margin-bottom: 80px;
 }
-.contact2{
+
+.four-flower {
+    margin-left: auto;
+    margin-right: auto;
+    gap: 12px;
+    width: 1450px;
+    display: flex;
+    gap: 24px;
+}
+
+
+.contact2 {
     text-align: center;
     font-size: 40px;
+    padding: 40px;
 }
-.small-text{
+
+.small-text {
     text-align: center;
     color: #27272799;
+    padding-bottom: 50px;
 }
-.email{
+
+.email {
     height: 40px;
-    width: 700px;
-    text-align: center;
+    width: 600px;
     margin-left: 400px;
     border: none;
+    padding-left: 20px;
+    border-radius: 5px;
+    outline: none;
+    margin-right: 5px;
 }
-.subscribe-section{
+
+.subscribe-section {
     background-color: #E55473;
     padding: 13px 20px;
     border-radius: 4px;
     border: none;
     text-align: center;
-
-}
-.sixth-container{
-   background-image: url("../images/Rectangle\ 9.png");
-    
+    color: white;
 }
 
-      
+.sixth-container {
+    background-image: url("../images/Rectangle\ 9.png");
+    height: 349px;
+    width: 1450px;
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 50px;
+    margin-bottom: 70px;
+}
+.seventh-container{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top:70px ;
+    padding-bottom:70px ;
+   
+}
+.style{
+    font-size: 48px;
+}
+.text5{
+    color: rgba(255, 255, 255, 0.90);
+}
+.text6{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    margin-top: 20px;
+}
