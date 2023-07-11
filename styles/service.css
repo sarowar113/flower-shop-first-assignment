@@ -150,7 +150,7 @@
     background: #E55473; 
     padding: 20px 43px;
     border: none;
-    margin-left: 80px;
+    margin-left: 130px;
     
     
 }
@@ -199,4 +199,32 @@
     gap: 10px;
     margin-bottom: 80px;
 }
+.contact2{
+    text-align: center;
+    font-size: 40px;
+}
+.small-text{
+    text-align: center;
+    color: #27272799;
+}
+.email{
+    height: 40px;
+    width: 700px;
+    text-align: center;
+    margin-left: 400px;
+    border: none;
+}
+.subscribe-section{
+    background-color: #E55473;
+    padding: 13px 20px;
+    border-radius: 4px;
+    border: none;
+    text-align: center;
+
+}
+.sixth-container{
+   background-image: url("../images/Rectangle\ 9.png");
+    
+}
+
       
