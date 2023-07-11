@@ -1,34 +1,202 @@
-.header-container{
-    background-color:  rgba(229, 84, 115, 0.10);
-    width: 2500px;
-    height: 850px;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-container {
+    background-color: rgba(229, 84, 115, 0.10);
+
+}
+
+.text-image-main-container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-img-container {
     display: flex;
-}
-.left-side{
-    padding: 200px;
+    align-items: center;
 }
 
-.beautiful-flower{
-color: #272727;
-font-size: 80px;
-font-weight: 800;
+.paragraph {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.beautiful-flower {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
 
 }
-.btn-container{
-color: #FFF;
-font-size: 20px;
-font-weight: 700;
-padding: 20px 43px;
-border-radius: 8px;
-background: #E55473;
+
+.btn-container {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
 
 }
-.flowers{
-    padding: 150px 240px;
+
+.flowers {
+
     padding-bottom: 0px;
+
+}
+
+.text-align {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.heading {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    display: block;
+
+}
+
+.text {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.photo-container {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    /* background-image: url("/images/pngwing\ 5.png"); */
+}
+
+.photo-pink {
+    padding: 50px 40px 10px 10px;
+    width: 310px;
+}
+
+.photo-div {
+    /* border-radius: 300px 300px 0px 0px; */
+    /* background: rgba(167, 33, 98, 0.15); */
+}
+
+.photo-div1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.text1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+.photo-div2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+    display: flex;
+    justify-content: center;
+}
+
+.photo-div3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    display: flex;
+    justify-content: center;
+}
+
+.photo-blue {
+    width: 420px;
+    padding-top: 20px;
+    height: 500px;
+}
+
+.text1 {
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+/* deliver-container */
+.delivery-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 130px;
+    gap: 280px;
+}
+.text2{
+    margin-top:5px ;
+    margin-left: -58px;
+}
+.sign-up{
+    color: white;
+    border-radius: 5px;
+    background: #E55473; 
+    padding: 20px 43px;
+    border: none;
+    margin-left: 80px;
+    
     
 }
-.text-align{
-    text-align:  center;
-    padding: 100px;
+.color{
+    color: #E55473;
 }
+.fourth-container{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 200px;
+    gap: 50px;
+}
+.text3{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+.contact{
+    font-size: 40px;
+}
+/* instagram section */
+.contact1{
+    font-size: 40px;
+    margin-left: 740px;
+    margin-top: 140px;
+    
+
+}
+.text4{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-left:620px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+.four-flower{
+    margin-left: 230px;
+    
+
+}   
+.text-img-container2{
+    margin-top: 20px;
+    gap: 10px;
+    margin-bottom: 80px;
+}
+      
